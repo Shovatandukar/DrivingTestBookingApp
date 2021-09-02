@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="header1">Driving Liscence Online Booking</string>
+    <string name="title1">Driving Liscence Online Booking</string>
+    <string name="mainButton_book">Book a Test</string>
+    <string name="mainButton_details">View Booking Details</string>
+    <string name="mainButton_list">List Booking Details</string>
+    <string name="title2">Booking Details</string>
+    <string name="title3">Select Date</string>
+    <string name="SelectDate_OK">OK</string>
+    <string name="title4">Select Time</string>
+    <string name="title5">Personal Details</string>
+    <string name="Full_Name">Full Name</string>
+    <string name="Lincence_No">Licence Number</string>
+    <string name="Confirm">Confirm</string>
+    <string name="dialog_message">Thanks for you Booking</string>
+    <string name="dialog_title">Booking Confirmed</string>
+</resources>
